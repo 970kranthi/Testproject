@@ -4,4 +4,5 @@ Author Name
 
 == Introduction
 
-This is a sample AsciiDoc file.
+* link:node-config.adoc[Node Configuration Options]
+

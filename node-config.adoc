@@ -1,0 +1,17 @@
+= Node Configuration Options
+:toc:
+:toc-title: Table of Contents
+
+For Groundplex instances, you can customize your nodes in the following tabs:
+
+== Node Properties
+
+This tab allows you to configure core properties of each node, such as memory allocation, logging levels, and environment variables.
+
+== Node Proxies
+
+In this tab, you can configure proxy settings used by the nodes to communicate outside the network.
+
+== Final Step
+
+Once you are done with these settings, click *Create* to create a new Snaplex.
