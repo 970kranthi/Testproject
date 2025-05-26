@@ -2,16 +2,20 @@
 :toc:
 :toc-title: Table of Contents
 
-For Groundplex instances, you can customize your nodes in the following tabs:
+Customize node behavior through these configuration tabs:
 
 == Node Properties
 
 This tab allows you to configure core properties of each node, such as memory allocation, logging levels, and environment variables.
 
+Refer to the https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/840598217/Create+a+Snaplex+in+Manager#Node-Properties[configuration setting].  
+
 == Node Proxies
 
 In this tab, you can configure proxy settings used by the nodes to communicate outside the network.
 
-== Final Step
+Refer to the https://docs-snaplogic.atlassian.net/wiki/spaces/SD/pages/840598217/Create+a+Snaplex+in+Manager#Node-Proxies[configuration setting].
+
+== Create Snaplex
 
 Once you are done with these settings, click *Create* to create a new Snaplex.

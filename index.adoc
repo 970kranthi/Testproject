@@ -1,8 +1,6 @@
-= My AsciiDoc Project
-Author Name
-:toc:
+= SnapLogic Manager
 
 == Introduction
 
-* link:node-config.adoc[Node Configuration Options]
+* link:node-config.adoc[Node Configuration]
 
