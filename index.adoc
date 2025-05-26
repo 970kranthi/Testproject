@@ -1,0 +1,7 @@
+= My AsciiDoc Project
+Author Name
+:toc:
+
+== Introduction
+
+This is a sample AsciiDoc file.
